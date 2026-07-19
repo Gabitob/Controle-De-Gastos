@@ -1,6 +1,6 @@
 # Sistema de Controle de Gastos Residenciais
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1520892831298879551/1528518030701760563/13e43171-af11-47f7-8893-3c342ffba2f0.png?ex=6a5e96d9&is=6a5d4559&hm=6c52186e19eb7c11809097082e5bbecf060154729af46e669a6bf98864b03348" alt="Demonstração do Motta Music" width="320px">
+  <img src="https://cdn.discordapp.com/attachments/1520892831298879551/1528518030701760563/13e43171-af11-47f7-8893-3c342ffba2f0.png?ex=6a5e96d9&is=6a5d4559&hm=6c52186e19eb7c11809097082e5bbecf060154729af46e669a6bf98864b03348" alt="Controle de gastos" width="320px">
 </p> 
 Sistema completo para gerenciamento de finanças pessoais, desenvolvido com .NET 10.0 (C#) para o back-end e React com TypeScript para o front-end.
  
